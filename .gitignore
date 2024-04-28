@@ -1,0 +1,28 @@
+node_modules
+.cache
+public
+dist
+.DS_Store
+.pnp
+.pnp.js
+.sanity
+logs
+*.log
+coverage
+.vscode
+
+#IDE
+.idea/*
+
+# Misc
+*.pem
+
+# Typescript
+*.tsbuildinfo
+
+database_backup
+
+yarn.lock
+
+# Local Netlify folder
+.netlify
